@@ -1,0 +1,64 @@
+.sobreMi,
+.lengua,
+.interes {
+  text-align: right;
+}
+
+.exp,
+.academia,
+.skill {
+  text-align: left;
+}
+
+// .twitter,
+// .facebook,
+// .github,
+// .linkedin,
+// .cv{
+//     margin: 10px;
+// }
+
+.github,
+.cv,
+.facebook,
+.twitter,
+.linkedin{
+    margin: 10px;
+    color:var(--color)
+}
+
+
+.profile-social{
+    font-size: 30px;
+}
+
+.avatarImage{
+    width: 250px;
+    height: 250px;
+}
+
+.sobreMiImage,
+.academiaImage,
+.interesImage,
+.lenguajeImage,
+.skillImage,
+.expImage {
+    width: 150px;
+    height: 150px;
+}
+
+.header{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+    background: var(--background)
+    // background: radial-gradient(white, orange, rgb(255, 136, 0));
+}
+
+.header{
+    color:var(--color)
+}
+
+
+
+
